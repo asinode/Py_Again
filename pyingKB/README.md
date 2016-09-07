@@ -2,4 +2,4 @@
 
 # Learning Python from KeerthiB
 
-## Experiments with Python as well as [Floobits[(https://floobits.com/)
+## Experiments with Python as well as [Floobits](https://floobits.com/)
