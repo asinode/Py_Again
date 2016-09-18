@@ -32,6 +32,7 @@ ENV/
 # my personal folders not required on github
 PythonAug2013/
 UsingPy4AccessingWebDataSep2016/
+DataManagementAndVisualizationSep2016/
 
 # any books
 *.pdf
