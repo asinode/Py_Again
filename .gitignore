@@ -33,6 +33,8 @@ ENV/
 PythonAug2013/
 UsingPy4AccessingWebDataSep2016/
 DataManagementAndVisualizationSep2016/
+.metadata/
+seleniumTrials1/
 
 # any books
 *.pdf
